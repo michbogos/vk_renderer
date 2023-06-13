@@ -1,3 +1,3 @@
 VulkanTest
 .vscode
-shaders/*.spv
+/shaders/*.spv
